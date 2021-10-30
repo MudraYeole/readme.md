@@ -24,6 +24,7 @@ Holding Diploma Degree in Information Technology
 ---
 
 ## Languages and Tools
+
 [<img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />][Arduino]
 [<img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />][Matlab]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][Linux]
