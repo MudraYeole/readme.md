@@ -49,7 +49,6 @@ It based on hardware and software.The project aims was designing a LED based scr
 - Gyming for fitness
 - Dancing
 
-
 ## 📫 Connect
 [<img align="left" alt="MudraYeole | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MudraYeole | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
