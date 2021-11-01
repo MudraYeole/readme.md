@@ -1,12 +1,8 @@
 ### 👋 Hi, I’m Mudra Yeole
 - I Stay in Pune.
-- I have completed my diploma in IT field from MIT Polytechnic Pune.
-- While doing my diploma, I was working on project which is Notice Board using LED Matrix. It is based on Hardware & Software.
-- I also wrote a detail research paper on this project. And it got published in IRJET which is International Research Journal of Engineering & Technology on 3rd March 2020.
-- And presented my project on state level Technical Competition & I was the winner of that competition.
-- And also I have did internship at LeapSwitch Networks Private Limited company.
-- Currently I'm working on live project at Cummins India Limited company.
-- Apart from the academics, I have also participated in different activities like basketball, dance competition & coding war competition.
+- I'm a future IT Engineer.
+- I like to learn about adveritment in Technologies,new softwares & new technical developments happening around.
+- Professional Dancer
 
 
 ## Education
@@ -14,7 +10,7 @@
 Pursuing BE Degree in Information Technology.
 
 ### MAEER's, MIT Polytechnic, Pune
-Holding Diploma Degree in Information Technology
+Holding Diploma Degree in Information Technology.
 
 
 ## Project
