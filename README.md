@@ -13,10 +13,21 @@ Pursuing BE Degree in Information Technology.
 Holding Diploma Degree in Information Technology.
 
 
+## Achievements
+- While doing my diploma I was working on project which is Notice Board using LED MATRIX.It is based on Hardware & Software.
+- I also wrote a detailed research paper on this project. And it got published in IRJET which is International Research Journal of Engineering & Technology.
+- And I presented my project on State level Technical Competition & I was the winner of that competition.
+- Apart from the academics, I have also certified in different activities like Basketball, Dance Competition & Coding War competition.
+
 ## Project
 ### Notice Board Using LED Matrix
 It based on hardware and software.The project aims was designing a LED based scrolling message display controlled from speech-to-text display.
 [reach my group project page](https://www.electronicwings.com/users/mudrayeole24/profile#user-projects)
+### Outputs of Project
+
+<img align="left" alt="LED-Matrix" width="250px" height="250px" src="https://www.electronicwings.com/ProjectSection/Projects/4763/speech-to-text-notice-board-using-led-matix/icon/IMG-20200520-WA0008.jpg" />
+<img align="left" alt="LED-Matrix" width="250px" height="250px" src="https://www.electronicwings.com/ProjectSection/Projects/4763/speech-to-text-notice-board-using-led-matix/detailed-description/Screenshot_2020-05-23-23-20-02-919_commiuivideoplayer.jpg" />
+<img align="left" alt="Google-Assistant-Display" width="350px" height="250px" src="https://www.electronicwings.com/ProjectSection/Projects/4763/speech-to-text-notice-board-using-led-matix/detailed-description/VIT_compressed.jpg" /><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ## Languages and Tools
@@ -32,6 +43,11 @@ It based on hardware and software.The project aims was designing a LED based scr
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Terminal]
 [<img align="left" alt="android" width="26px" src="https://developer.android.com/images/landing/android-logo.svg" />][android]<br><br>
 
+
+## Hobbies
+- Reading Nobels & also new Technologies.
+- Gyming for fitness
+- Dancing
 
 
 ## 📫 Connect
