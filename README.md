@@ -25,7 +25,7 @@ It based on hardware and software.The project aims was designing a LED based scr
 [reach my group project page](https://www.electronicwings.com/users/mudrayeole24/profile#user-projects)
 ### Outputs of Project
 <img align="left" alt="LED-Matrix" width="250px" height="250px" src="https://www.electronicwings.com/ProjectSection/Projects/4763/speech-to-text-notice-board-using-led-matix/detailed-description/Screenshot_2020-05-23-23-20-02-919_commiuivideoplayer.jpg" />
-<img align="left" alt="Google-Assistant-Display" width="350px" height="250px" src="https://www.electronicwings.com/ProjectSection/Projects/4763/speech-to-text-notice-board-using-led-matix/detailed-description/VIT_compressed.jpg" /><br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" alt="Google-Assistant-Display" width="350px" height="250px" src="https://www.electronicwings.com/ProjectSection/Projects/4763/speech-to-text-notice-board-using-led-matix/detailed-description/VIT_compressed.jpg" /><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ## Languages and Tools
