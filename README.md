@@ -63,5 +63,5 @@ It based on hardware and software.The project aims was designing a LED based scr
 [Matlab]: https://in.mathworks.com/products/get-matlab.html
 [Arduino]: https://www.arduino.cc/
 [linkedin]: https://www.linkedin.com/in/mudra-yeole-24500a188
-[instagram]: https://www.instagram.com/dance_with_mudra/
+[instagram]: https://www.instagram.com/dance_with_mudra/ 
 [GitHub]: https://github.com/MudraYeole/
