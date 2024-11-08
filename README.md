@@ -1,16 +1,27 @@
 ### 👋 Hi, I’m Mudra Yeole
-- I Stay in Pune.
-- I'm a future IT Engineer.
-- I like to learn about adveritment in Technologies,new softwares & new technical developments happening around.
-- Professional Dancer
+- Versatile data analyst with expertise in data analysis, project documentation,data modeling, dashboard design and report design.
+- Exceled in enhancing database performance and delivering actionable insights, showcasing exceptional project management and technical writing skills.
+- Demonstrated ability to leverage SQL, Power BI, Microsoft Office, Snowflake and Python for robust data analysis, driving strategic decisions and process improvements.
+- To seek and maintain ful-time position that offers professional chalenges utilizing interpersonal skills, exce lent time management and real-time problem-solving skills.
 
 
 ## Education
-### Dhole Patil College Of Engineering, Pune
-Pursuing BE Degree in Information Technology.
+### Savitribai Phule Pune University - Maharashtra, Pune.
+ - Bachelor of Engineering: Information Technology
+ - Dhole Patil College of Engineering, Pune.
+ - Graduation with Distinction in all 3 years.
+ - 9.10 CGPA
+ - Elected for President of the Information Technology Department and General Secretary of the Dhole Patil Colege of Engineering for the 2022–2023 term.
+ - State Level Player Winner in the event of Basketbal.
 
 ### MAEER's, MIT Polytechnic, Pune
-Holding Diploma Degree in Information Technology.
+ - Diploma : Information Technology
+ - 95.33 Percentage in Final Semester, 2020 (First Class Distinction)
+ - 86.75 Percentage (Aggregate Marks)
+ - Elected for Event Co-Ordinator Position for MIT Polytechnic Pune in 2019-2020 term.
+ - Member of Cultural Events in 2019-2020 term.
+ - Certified from MIT Polytechnic Pune was Winner in Project Exhibition Organized by IT Students Association in February 2020.
+ - State Level Player Runner-up in the event of Basketbal.
 
 
 ## Achievements
